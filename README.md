@@ -1,5 +1,9 @@
 # SSH Logging Web UI (Work In Progress)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
 An web UI which shows all detailed information about all the login attempts made on the ssh protocol. This is useful to keep track of all the brute-force attacks happening on an public server. 
 
 SSH remains the main gateway protocol to be protected on any publically available unix system, and hence its the protocol which is most exposed to wide-spreed internet attacks.
